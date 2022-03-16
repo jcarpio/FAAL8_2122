@@ -7,3 +7,9 @@ https://gadgetversus.com/processor/intel-core-i7-6700-gflops-performance/
 
 How big is Big Data
 https://www.precisely.com/blog/big-data/how-big-is-big-data-definition-examples
+
+Como montamos menéame en AWS
+https://gallir.wordpress.com/2009/12/30/como-montamos-meneame-en-amazon-ec2/
+
+El mejor consejo que puedo dar a un joven ingeniero
+https://gallir.wordpress.com/2016/03/24/el-mejor-consejo-que-puedo-dar-a-un-joven-ingeniero/
